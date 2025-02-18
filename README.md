@@ -1,2 +1,2 @@
-# telecom-
+# telecom
 Classification model for Telecom
